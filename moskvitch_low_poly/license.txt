@@ -1,0 +1,11 @@
+Model Information:
+* title:	Moskvitch (low poly)
+* source:	https://sketchfab.com/3d-models/moskvitch-low-poly-34d6c2c308d24d6c849b1ce604dba409
+* author:	pinokio21 (https://sketchfab.com/pinokio21)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Moskvitch (low poly)" (https://sketchfab.com/3d-models/moskvitch-low-poly-34d6c2c308d24d6c849b1ce604dba409) by pinokio21 (https://sketchfab.com/pinokio21) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
